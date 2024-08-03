@@ -9,21 +9,32 @@
 #Integrated Development Environment (IDE): Use an IDE like Eclipse or IntelliJ IDEA for writing and managing your code.
 
 #Browser Driver: ChromeDriver, as this project uses the Chrome browser for testing.
-Project Structure
-BasePage.java: Manages WebDriver setup and teardown.
-HomePage.java: Contains methods to interact with the Home Page elements.
-HomeScript.java: Contains the test cases.
-pom.xml: Maven configuration file for dependencies and plugins.
-Setting Up the Project
-Install JDK
 
-Download and install JDK from the Oracle website.
-Set up the JAVA_HOME environment variable.
-Install Maven
+#Project Structure
 
-Download and install Maven from the Maven website.
-Set up the MAVEN_HOME environment variable and add it to the PATH.
-Set Up the Project in an IDE
+#BasePage.java: Manages WebDriver setup and teardown.
+
+#HomePage.java: Contains methods to interact with the Home Page elements.
+
+#HomeScript.java: Contains the test cases.
+
+#pom.xml: Maven configuration file for dependencies and plugins.
+
+#Setting Up the Project
+
+#Install JDK
+
+#Download and install JDK from the Oracle website.
+
+#Set up the JAVA_HOME environment variable.
+
+#Install Maven
+
+#Download and install Maven from the Maven website.
+
+#Set up the MAVEN_HOME environment variable and add it to the PATH.
+
+#Set Up the Project in an IDE
 
 Open your IDE and create a new Maven project.
 Add the provided pom.xml file to the project root.
