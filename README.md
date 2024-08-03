@@ -1,9 +1,14 @@
 #Setting Up and Running Your Selenium Test Scripts
+
 #Prerequisites
-Java Development Kit (JDK): Ensure you have JDK 1.8 or higher installed on your system.
-Apache Maven: Maven should be installed for dependency management and build automation.
-Integrated Development Environment (IDE): Use an IDE like Eclipse or IntelliJ IDEA for writing and managing your code.
-Browser Driver: ChromeDriver, as this project uses the Chrome browser for testing.
+
+#Java Development Kit (JDK): Ensure you have JDK 1.8 or higher installed on your system.
+
+#Apache Maven: Maven should be installed for dependency management and build automation.
+
+#Integrated Development Environment (IDE): Use an IDE like Eclipse or IntelliJ IDEA for writing and managing your code.
+
+#Browser Driver: ChromeDriver, as this project uses the Chrome browser for testing.
 Project Structure
 BasePage.java: Manages WebDriver setup and teardown.
 HomePage.java: Contains methods to interact with the Home Page elements.
