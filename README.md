@@ -36,9 +36,12 @@
 
 #Set Up the Project in an IDE
 
-Open your IDE and create a new Maven project.
-Add the provided pom.xml file to the project root.
-Configure WebDriver
+#Open your IDE and create a new Maven project.
 
-Download the ChromeDriver from the ChromeDriver site.
-Ensure the ChromeDriver executable is in your system's PATH or provide its path in the code.
+#Add the provided pom.xml file to the project root.
+
+#Configure WebDriver
+
+#Download the ChromeDriver from the ChromeDriver site.
+
+#Ensure the ChromeDriver executable is in your system's PATH or provide its path in the code.
